@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/quent/OneDrive/Documents/Unreal/ProjetDeca/Content/ProjectDeca/Maps/Gyms/Map_Gym3C.umap",
+				"C:/Users/quent/OneDrive/Documents/Unreal/ProjetDeca/Content/ProjectDeca/Design/Blueprints/BP_SpeedBoost.uasset",
+				"C:/Users/dessa/Documents/GitHub/ProjetDeca/ProjetDeca/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
