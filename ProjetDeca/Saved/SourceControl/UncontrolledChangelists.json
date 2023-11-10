@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ProjectDeca/Blueprints/Widget/WBP_SessionMenu.uasset",
+				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ProjectDeca/Blueprints/Widget/WBP_ServerInfos.uasset",
+				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ProjectDeca/Blueprints/GM_SessionsMode.uasset",
 				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ProjectDeca/Widget_Session.uasset",
 				"C:/Projets Unreal/ProjetDeca/ProjetDeca/Content/ProjectDeca/Maps/Map_JoinMenu.umap",
 				"C:/Users/quent/OneDrive/Documents/Unreal/ProjetDeca/Content/ProjectDeca/Maps/Gyms/Map_Gym3C.umap",
